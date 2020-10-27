@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Classes exersice\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+C:\Users\25042020\source\repos\Classes exersice\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+C:\Users\25042020\source\repos\Classes exersice\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+C:\Users\25042020\source\repos\Classes exersice\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Classes exersice\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+C:\Users\25042020\source\repos\Classes exersice\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+C:\Users\25042020\source\repos\Classes exersice\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Classes exersice\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Classes exersice\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Classes exersice\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Classes exersice\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+C:\Users\25042020\source\repos\Classes exersice\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
+C:\Users\25042020\source\repos\Classes exersice\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache
